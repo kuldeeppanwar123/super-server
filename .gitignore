@@ -1,4 +1,1 @@
-node_modules/
 .env
-
-scp -r /path/to/your/app user@your-vps-ip:/path/on/vps
